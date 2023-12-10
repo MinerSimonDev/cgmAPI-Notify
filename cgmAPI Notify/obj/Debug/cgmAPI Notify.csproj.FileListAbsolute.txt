@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\bin\Debug\cgmAPI Notify.exe.config
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\bin\Debug\cgmAPI Notify.exe
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\bin\Debug\cgmAPI Notify.pdb
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\obj\Debug\cgmAPI Notify.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\obj\Debug\cgmAPI_Notify.Form1.resources
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\obj\Debug\cgmAPI_Notify.Properties.Resources.resources
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\obj\Debug\cgmAPI Notify.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\obj\Debug\cgmAPI Notify.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\obj\Debug\cgmAPI Notify.exe
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\obj\Debug\cgmAPI Notify.pdb
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simon\source\repos\cgmAPI Notify\cgmAPI Notify\obj\Debug\cgmAPI Notify.csproj.CopyComplete
